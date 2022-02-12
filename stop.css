@@ -1,0 +1,22 @@
+h1{
+    font-size: 100px;
+    background-color: black;
+    text-transform: capitalize;
+    color: rgba(187, 206, 21, 0.938);
+}
+h2{
+    background-color: gold;
+    color: lavender;
+    font-size: 80px;
+    text-transform: capitalize;
+ padding: 10px;
+}
+html{
+    background-color: white;
+    direction:rtl;
+}
+
+ul{
+    list-style-position: inside;
+    text-align: center;
+}

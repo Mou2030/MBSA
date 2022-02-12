@@ -1,0 +1,30 @@
+.owern-1,
+.owern-2
+{
+  color: darkblue;
+  border-bottom: 12em;
+  border-top: 25em;
+  border: cyan;
+  cursor: grab;
+  border: lightcyan;
+}
+body{
+  background-color: olivedrab;
+  border: 20px snow firebrick;
+  font-size: 50px;
+  text-align: center;
+position: fixed;
+width: 1000px;
+  }
+ footer{
+   background: gainsboro;
+   text-align: center;
+   font-size: x-large;
+   font-style: normal;
+   border: gold;
+   margin-top: 2cm;
+   cursor: zoom-in;
+ }
+ a{
+   cursor: move;
+ }

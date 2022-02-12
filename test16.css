@@ -1,0 +1,37 @@
+.navbar {
+    background: #333;
+    }
+.navbar h2 {
+    font-size: auto;
+    background: color #222;
+    float: left;
+    width: 10%;
+
+}
+.navbar ul {
+    list-style: none;
+      float: left;
+    width: 90%;
+
+  }
+ 
+* {
+    padding: 0pt;
+    margin: 0pt;
+}
+
+.navbar ul li a {
+    text-decoration: none;
+    color: sienna;
+        text-shadow: royalblue;
+    }
+
+.navbar ul li {
+    display: inline-block; 
+      margin: 10px;
+      padding: 8px;
+     
+}
+.clear {
+    clear: both;
+}

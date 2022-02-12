@@ -1,0 +1,11 @@
+.img-2:hover {
+    padding: 120px;
+    opacity: 1;
+    background-color: cadetblue;
+   border: 10px solid green;
+}
+.one-1::first-letter {
+    color: red;
+    font-size: 120cm;
+}
+

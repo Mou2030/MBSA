@@ -1,0 +1,33 @@
+.div-1{
+     margin: auto;
+    position: static;
+    text-align: center;
+    padding: auto;
+    background-position-x: left;
+    background-position-y: top;
+    color: rgba(226, 41, 143, 0.973);
+    font-weight: bold;
+     border: rgba(255, 206, 71, 0.932);
+   line-height: 20px;
+background-color: rgba(12, 6, 1, 0.644);
+display: inline-block;
+}
+div{
+    margin: auto;
+    text-anchor: start;
+    border: #b10f0f4b;
+ }
+caption{
+    color: brown;
+    line-break: loose;
+    text-decoration: dashed;
+    text-transform: uppercase;
+    image-rendering: optimizeSpeed;
+    cursor: wait;
+      }
+.store2{
+  padding-left: inherit;
+  background-color: lawngreen;
+  border: lightgrey;
+  border-radius: 100px;
+}

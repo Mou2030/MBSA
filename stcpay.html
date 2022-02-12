@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<head>
+ <div class="fish">تصفيات </div> 
+  <link rel="stylesheet" href="D:\MBSA\stcpay1.css">
+    <title>تصفيات stcapy </title>
+    <br>
+    <body>
+      <form action="feedback.python" method="get"> 
+       <label>
+      ادخل رقم المندوب 
+        </label>
+        <input type="text"  name="ادخل رقم المندوب " required placeholder="يرجي ادخال رقم المندوب كاملا ">
+        <br>
+        <label>اسم الفرع </label>
+        <input  type="text"  name="الرجاء اختيار الفرع المتاح  " >
+        <div class="branch">
+          <ul>
+            <li> <a href="#">جدة</a></li>
+            <li> <a href="#">الريا ض</a></li>
+            <li> <a href="#">الدمام</a></li>
+            <li> <a href="#">المدينة</a></li>
+            <li> <a href="#">القصيم </a></li>
+        
+          </ul>
+        </div>
+      
+        <br>
+<label> ايام عمل المندوب  </label>
+        <input type="number"   name="ادخل عدد ايام العمل " required>
+        <br>
+  
+  <label> وقت التصفية   </label>
+        <input  type="text"  name="ادخل ايام الاسبوع " required value="12:00AM" readonly>
+        <br>
+
+        <label>يوم التصفية </label>
+        <input  type="date"  name="ادخل ايام الاسبوع " placeholder="ادخل التوقيت  الرسمي " required>
+        <br>
+<p class="p-1">بداية  العمل   </p>
+<div class="one">
+    <input type="radio" name="اختار يوم بداية العمل "  value="اختار يوم البداية "  checked>
+    <label>السبت </label>
+</div>
+     
+<div class="Two">
+    <input type="radio" name="اختار يوم بداية العمل "  value="اختار يوم البداية " >
+    <label > الاحد </label>
+
+</div>
+         <div class="three">
+    <input type="radio" name="اختار يوم بداية العمل "  value="اختار يوم البداية ">
+    <label >الاثنين  </label>
+  </div>
+       
+    <div class="four">
+        <input type="radio" name="اختار يوم بداية العمل "  value="اختار يوم البداية ">
+        <label > الثلاثاء </label>
+    
+        
+        <p class="five">   يرجي ارسال اشعار التحويل عبر الجوال </p>
+               <lab>اكتب رقم الجوال هنا  </lab>
+               <b>
+                <input type="tel" name="اكتب رقم جوال هنا "  placeholder="+966" required> 
+               </b>
+   
+       
+        <br/>
+        <br>
+
+        <button type="submit"> حفظ </button > 
+          <button type="reset">تراجع</button> 
+                 </div>
+  </form>
+        </body>
+</head>
+ </html>

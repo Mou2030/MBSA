@@ -1,0 +1,19 @@
+body
+{
+    width: 120px;
+        display: block;
+    float: left;
+    margin-top: auto;
+    background-color: azure;
+    color: rgb(23, 12, 88);
+    white-space: nowrap;
+font-family: Times, serif;
+    padding:16px;
+    margin:-1px -1px 0 -1px;
+    background-color:#1b70c5;
+    border-color:#d1d5da;
+    border-style:solid;
+    border-width:1px;
+    border-top-left-radius:3px;
+    border-top-right-radius:3px;
+}

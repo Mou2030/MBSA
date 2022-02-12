@@ -1,0 +1,38 @@
+.one,
+.Two,
+.three,
+.four, 
+.five,
+.p-1,
+b {
+    color: darkblue;
+    border-bottom: 12em;
+    border-top: 25em;
+    background-color: chocolate;
+    cursor: wait;
+    padding: 8px;
+        }
+
+ body{
+    margin-top: 12px;
+padding-bottom: 12px;
+border-spacing: 1.6pt;outline: auto;
+text-align: center;
+font-size: 150%;
+line-height: 50px;
+}
+
+p{
+    text-shadow: lavender;
+    font-size: larger;
+}
+
+.fish {
+    font-size: 50px;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-indent: 12px;
+    text-align: center;
+      
+}
+
